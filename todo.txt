@@ -1,0 +1,1 @@
+NNPACK unsupport with Intel(R) Core(TM) i7-3740QM CPU @ 2.70GHz or NVIDIA Quadro K1000M
